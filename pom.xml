@@ -19,7 +19,7 @@
 
         <ant.version>1.8.2</ant.version>
         <junit.version>4.10</junit.version>
-        <commons-io.version>2.3</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <commons-lang.version>2.5</commons-lang.version>
         <commons-betwixt.version>0.8</commons-betwixt.version>
         <commons-httpclient.version>3.1</commons-httpclient.version>
