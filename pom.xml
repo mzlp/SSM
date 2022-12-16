@@ -12,7 +12,7 @@
     <properties>
         <!-- spring版本号 -->
         <spring.version>3.2.4.RELEASE</spring.version>
-        <springframework.version>3.1.1.RELEASE</springframework.version>
+        <springframework.version>5.2.20.RELEASE</springframework.version>
         <!-- mybatis版本号 -->
         <mybatis.version>3.2.4</mybatis.version>
         <mybatis-spring.version>1.1.0</mybatis-spring.version>
